@@ -1,0 +1,34 @@
+Python 3.x
+
+plyer module
+
+Install manually if needed:
+
+bash
+Copy
+Edit
+pip install plyer
+📋 Example Notification
+Title: Time for Success
+
+Message: Take a break! Refresh and improve your health.
+
+📄 License
+This project is licensed under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+## 📄 3. `requirements.txt`
+
+```txt
+plyer
+This allows easy installation of required modules using:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
